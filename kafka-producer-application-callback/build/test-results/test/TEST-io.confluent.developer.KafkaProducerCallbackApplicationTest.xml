@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.confluent.developer.KafkaProducerCallbackApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-07T15:48:03" hostname="MACC02ZQ7ZZMD6R" time="0.018">
+  <properties/>
+  <testcase name="testProduce" classname="io.confluent.developer.KafkaProducerCallbackApplicationTest" time="0.018"/>
+  <system-out><![CDATA[Record written to offset 0 timestamp -1
+Record written to offset 1 timestamp -1
+Record written to offset 2 timestamp -1
+Record written to offset 3 timestamp -1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

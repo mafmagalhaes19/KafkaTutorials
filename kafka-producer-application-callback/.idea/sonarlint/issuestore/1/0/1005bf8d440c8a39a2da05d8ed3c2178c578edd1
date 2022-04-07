@@ -1,0 +1,9 @@
+
+E
+java:S1659"#Declare "value" on a separate line.(òÑý®üÿÿÿÿ8ûÇœ¤€0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(êÀ£²ùÿÿÿÿ8þÇœ¤€0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ŽïÓ¦8ÿÇœ¤€0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(å•Ð–þÿÿÿÿ8€Èœ¤€0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ˆçÇÓ8ŽÈœ¤€0
+o
+java:S20958"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(øšª¼ÿÿÿÿÿ8žÈœ¤€0

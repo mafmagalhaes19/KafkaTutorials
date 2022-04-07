@@ -1,0 +1,13 @@
+
+e
+java:S1874c"CRemove this use of "setUncaughtExceptionHandler"; it is deprecated.(Ú¡ªÜşÿÿÿÿ8¶Áä¦€0
+G
+java:S1181p"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8¾Áä¦€0
+U	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(†óÙ68ÕÁä¦€0
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(ìå·ÿùÿÿÿÿ8ÖÁä¦€0
+s
+java:S1192!"QDefine a constant instead of duplicating this literal "input.topic.name" 3 times.(´Òäğøÿÿÿÿ8çÁä¦€0
+l
+java:S2095a"JUse try-with-resources or close this "KafkaStreams" in a "finally" clause.(«Ùºüúÿÿÿÿ8ĞÂä¦€0
+o
+java:S2095E"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ãğµùÿÿÿÿ8ÕÂä¦€0

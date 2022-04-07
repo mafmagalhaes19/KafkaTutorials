@@ -1,0 +1,10 @@
+
+E
+java:S1659!"#Declare "value" on a separate line.(òÑı®üÿÿÿÿ8¶ÉÄıÿ/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(“»Ğ8ÂÉÄıÿ/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(‚õ‰Æüÿÿÿÿ8ÅÉÄıÿ/
+b
+java:S1193B"@Replace the usage of the "instanceof" operator by a catch block.(“ë¬¨ûÿÿÿÿ8ÇÉÄıÿ/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ˆçÇÓ8ÏÉÄıÿ/
+o
+java:S20953"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(øšª¼ÿÿÿÿÿ8İÉÄıÿ/

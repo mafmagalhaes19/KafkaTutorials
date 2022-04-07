@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.confluent.developer.KafkaProducerApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-07T10:58:11" hostname="MACC02ZQ7ZZMD6R" time="0.029">
+  <properties/>
+  <testcase name="testProduce" classname="io.confluent.developer.KafkaProducerApplicationTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
