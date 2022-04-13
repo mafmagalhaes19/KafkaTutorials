@@ -1,0 +1,20 @@
+
+E
+java:S1659$"#Declare "value" on a separate line.(òÑý®üÿÿÿÿ8ìŸÁ–‚0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(‚þÉŒÿÿÿÿÿ8ñŸÁ–‚0
+T	java:S106_"9Replace this use of System.out or System.err by a logger.(òñN8• Á–‚0
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(ˆçÇÓ8– Á–‚0
+j
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.RecordMetadata'.(éìåê8˜ Á–‚0
+d
+java:S1128	"GRemove this unused import 'org.apache.kafka.clients.producer.Callback'.(ûÀÅã8› Á–‚0
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8œ Á–‚0
+a
+java:S1128"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ8 Á–‚0
+Z
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíýÿÿÿÿ8  Á–‚0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¡ Á–‚0
+o
+java:S2095>"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(øšª¼ÿÿÿÿÿ8ö Á–‚0
